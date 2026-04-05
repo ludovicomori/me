@@ -42,14 +42,14 @@ interests:
 education:
   - degree: Ph.D. in Physics (candidate)
     institution: California Institute of Technology
-    start: 2024-09
+    start: Sep. 2024
     summary: |
-      Member of Prof. Maria Spiropulu’s group on CMS. Research on boosted HH → bbττ, detector upgrades (BTL), and SNSPD test-beam studies.
+      Member of Prof. Maria Spiropulu's group on CMS. Research on boosted HH → bbττ, detector upgrades (BTL), and SNSPD test-beam studies.
   - degree: M.Sc. High Energy Physics
     institution: École Polytechnique / ETH Zurich
     start: 2021-2024
     summary: |
-      GPA 5.7/6. Thesis-related work on CMS including dark-photon searches and B-parking heavy-neutrino studies.
+      Thesis-related work on CMS including dark-photon searches and B-parking heavy-neutrino studies.
   - degree: Visiting student
     institution: Massachusetts Institute of Technology
     start: 2023
@@ -58,8 +58,6 @@ education:
   - degree: B.Sc. Physics
     institution: ETH Zurich
     start: 2018-2021
-    summary: |
-      GPA 5.6/6.
 
 experience:
   - role: Ph.D. researcher — CMS physics & instrumentation
@@ -80,70 +78,70 @@ experience:
     summary: |
       Project on retrieval-augmented generation to enhance large language models.
 
-skills:
-  - name: Physics & computing
-    items:
-      - label: Experimental HEP (CMS)
-        level: 5
-      - label: Data analysis & statistics
-        level: 5
-      - label: Python
-        level: 5
-      - label: Machine learning for physics
-        level: 4
-      - label: Detector systems & test beams
-        level: 4
-  - name: Collaboration & communication
-    items:
-      - label: Analysis operations (ORM)
-        level: 4
-      - label: Mentoring & teamwork
-        level: 4
-      - label: Academic presentations
-        level: 5
+# skills:
+#   - name: Physics & computing
+#     items:
+#       - label: Experimental HEP (CMS)
+#         level: 5
+#       - label: Data analysis & statistics
+#         level: 5
+#       - label: Python
+#         level: 5
+#       - label: Machine learning for physics
+#         level: 4
+#       - label: Detector systems & test beams
+#         level: 4
+#   - name: Collaboration & communication
+#     items:
+#       - label: Analysis operations (ORM)
+#         level: 4
+#       - label: Mentoring & teamwork
+#         level: 4
+#       - label: Academic presentations
+#         level: 5
 
-languages:
-  - name: Italian
-    level: 5
-    label: Native
-  - name: German
-    level: 5
-    label: Fluent (C2)
-  - name: English
-    level: 5
-    label: Fluent
-  - name: French
-    level: 5
-    label: Fluent
+# languages:
+#   - name: Italian
+#     level: 5
+#     label: Native
+#   - name: German
+#     level: 5
+#     label: Fluent (C2)
+#   - name: English
+#     level: 5
+#     label: Fluent
+#   - name: French
+#     level: 5
+#     label: Fluent
 
-awards:
-  - title: Kohn Family Graduate Fellowship
-    awarder: Caltech
-    date: '2024-09-01'
-    summary: Fully funded first year of Ph.D. studies.
-    icon: hero/trophy
-  - title: Grant for research project
-    awarder: Swiss Study Foundation (MIT)
-    date: '2023-01-01'
-    summary: Grant supporting project work at MIT.
-    icon: hero/trophy
-  - title: Nova 111 students
-    awarder: Nova network
-    date: '2023-01-01'
-    summary: Selected among talented Italian students.
-    icon: hero/trophy
-  - title: Literary contest finalist
-    awarder: ENSTA Paris
-    date: '2022-01-01'
-    summary: Short story selected among finalists.
-    icon: hero/trophy
-  - title: Grant for study at École Polytechnique
-    awarder: Swiss Study Foundation
-    date: '2021-01-01'
-    summary: Grant supporting studies in Paris.
-    icon: hero/trophy
-  - title: Merit-based support program
-    awarder: Swiss Study Foundation
-    date: '2020-01-01'
-    summary: Selection for merit-based support.
-    icon: hero/trophy
+# awards:
+#   - title: Kohn Family Graduate Fellowship
+#     awarder: Caltech
+#     date: '2024-09-01'
+#     summary: Fully funded first year of Ph.D. studies.
+#     icon: hero/trophy
+#   - title: Grant for research project
+#     awarder: Swiss Study Foundation (MIT)
+#     date: '2023-01-01'
+#     summary: Grant supporting project work at MIT.
+#     icon: hero/trophy
+#   - title: Nova 111 students
+#     awarder: Nova network
+#     date: '2023-01-01'
+#     summary: Selected among talented Italian students.
+#     icon: hero/trophy
+#   - title: Literary contest finalist
+#     awarder: ENSTA Paris
+#     date: '2022-01-01'
+#     summary: Short story selected among finalists.
+#     icon: hero/trophy
+#   - title: Grant for study at École Polytechnique
+#     awarder: Swiss Study Foundation
+#     date: '2021-01-01'
+#     summary: Grant supporting studies in Paris.
+#     icon: hero/trophy
+#   - title: Merit-based support program
+#     awarder: Swiss Study Foundation
+#     date: '2020-01-01'
+#     summary: Selection for merit-based support.
+#     icon: hero/trophy
