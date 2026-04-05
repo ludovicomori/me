@@ -16,11 +16,11 @@ sections:
       username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: /CV-5.pdf
+      # button:
+      #   text: Download CV
+      #   url: /CV-5.pdf
       headings:
-        about: ''
+        about: 'Bio'
         education: ''
         interests: ''
     design:

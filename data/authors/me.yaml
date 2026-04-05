@@ -24,10 +24,8 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:lmori@caltech.edu
+    url: lmori at caltech dot edu
     label: Caltech email
-  - icon: at-symbol
-    url: mailto:ludovico.mori@cern.ch
     label: CERN email
   - icon: brands/github
     url: https://github.com/ludovicomori
