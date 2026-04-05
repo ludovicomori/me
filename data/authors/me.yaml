@@ -42,25 +42,22 @@ interests:
 education:
   - degree: Ph.D. in Physics (candidate)
     institution: California Institute of Technology
-    start: 2024-09-01
+    start: 2024-09
     summary: |
       Member of Prof. Maria Spiropulu’s group on CMS. Research on boosted HH → bbττ, detector upgrades (BTL), and SNSPD test-beam studies.
   - degree: M.Sc. High Energy Physics
     institution: École Polytechnique / ETH Zurich
-    start: 2021-09-01
-    end: 2024-08-31
+    start: 2021-2024
     summary: |
       GPA 5.7/6. Thesis-related work on CMS including dark-photon searches and B-parking heavy-neutrino studies.
   - degree: Visiting student
     institution: Massachusetts Institute of Technology
-    start: 2023-01-01
-    end: 2023-12-31
+    start: 2023
     summary: |
       CMS dark-photon dimuon resonance search; mentoring; A2rchi RAG project on LLMs.
   - degree: B.Sc. Physics
     institution: ETH Zurich
-    start: 2018-09-01
-    end: 2021-08-31
+    start: 2018-2021
     summary: |
       GPA 5.6/6.
 
