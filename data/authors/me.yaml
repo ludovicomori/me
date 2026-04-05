@@ -26,7 +26,6 @@ links:
   - icon: at-symbol
     url: lmori at caltech dot edu
     label: Caltech email
-    label: CERN email
   - icon: brands/github
     url: https://github.com/ludovicomori
   - icon: brands/linkedin
