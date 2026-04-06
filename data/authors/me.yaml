@@ -12,9 +12,12 @@ status:
   icon: ''
 role: Physics Ph.D. Student, Caltech · CMS Collaboration
 bio: |
-  I work on high energy physics with the [CMS experiment](https://cms.cern/) at CERN. I joined Prof. Maria Spiropulu’s group at Caltech in September 2024, after contributing to a CMS search for dark photons with researchers at MIT and ETH Zurich during my Master’s.
+  Hi, I am Ludovico and I work on high energy physics with the [CMS experiment](https://cms.cern/) at CERN. I joined Caltech in September 2024, after my Master's in High Energy Physics (HEP) at ETH Zurich and École Polytechnique. For my Master's thesis I contributed to a CMS search for dark photons, a potential dark matter candidate, spending time at MIT and at CERN.
 
-  I am interested in the intersection of HEP and machine learning, in novel detector technologies, and I have contributed to the ongoing CMS search for boosted HH → bbττ using advanced jet-tagging methods.
+  I am interested in the edge technology applications to HEP. I have contributed to the ongoing CMS search for a rare Higgs physics process, HH → bbττ in the boosted regime, which employs advanced jet-tagging methods. I have also been working on the Barrel Timing Layer upgrade of CMS Phase-2, and investigating the potential of superconducting quantum sensors for future HEP detectors.
+
+  The site is work in progress! I will try to add stuff soon. 
+
 
 affiliations:
   - name: California Institute of Technology
@@ -35,21 +38,22 @@ links:
 
 interests:
   - High energy physics & CMS
+  - Higgs Physics
   - Machine learning for collider physics
-  - Detector R&D and timing layers
-  - Exotic searches (e.g. dark photons, HH)
+  - Detector R&D and timing technologies
+  - Exotic searches
 
 education:
-  - degree: Ph.D. in Physics (candidate)
+  - degree: Ph.D. in Physics
     institution: California Institute of Technology
     start: Sep. 2024
     summary: |
-      Member of Prof. Maria Spiropulu's group on CMS. Research on boosted HH → bbττ, detector upgrades (BTL), and SNSPD test-beam studies.
+      Research on boosted HH → bbττ, detector upgrades (BTL), and SNSPD test-beam studies.
   - degree: M.Sc. High Energy Physics
     institution: École Polytechnique / ETH Zurich
     start: 2021-2024
     summary: |
-      Thesis-related work on CMS including dark-photon searches and B-parking heavy-neutrino studies.
+      Master's thesis on CMS dark-photon search.
   - degree: Visiting student
     institution: Massachusetts Institute of Technology
     start: 2023
@@ -59,24 +63,24 @@ education:
     institution: ETH Zurich
     start: 2018-2021
 
-experience:
-  - role: Ph.D. researcher — CMS physics & instrumentation
-    org: Caltech & CERN
-    start: 2024-09-01
-    summary: |
-      Run 3 boosted HH → bbττ search; assembly of Barrel Timing Layer modules for the MIP timing detector (Phase-2 CMS upgrade) in the CPT Lab; testing superconducting nanowire single-photon detectors (SNSPD) at the LHC test beam; Offline Run Manager (ORM) shifter (2025).
-  - role: Graduate researcher — CMS exotica
-    org: MIT, ETH Zurich & CERN
-    start: 2023-01-01
-    end: 2024-08-31
-    summary: |
-      Search for dark photons in GeV-scale dimuon resonances (analysis and student mentoring). Light-curve and SED analysis of OJ287; signal normalization for a heavy-neutrino search using the CMS B-parking dataset.
-  - role: Contributor — A2rchi (LLM + RAG)
-    org: MIT
-    start: 2023-01-01
-    end: 2024-12-31
-    summary: |
-      Project on retrieval-augmented generation to enhance large language models.
+# experience:
+#   - role: Ph.D. researcher — CMS physics & instrumentation
+#     org: Caltech & CERN
+#     start: 2024-09-01
+#     # summary: |
+#     #   Run 3 boosted HH → bbττ search; assembly of Barrel Timing Layer modules for the MIP timing detector (Phase-2 CMS upgrade) in the CPT Lab; testing superconducting nanowire single-photon detectors (SNSPD) at the LHC test beam; Offline Run Manager (ORM) shifter (2025).
+#   - role: Graduate researcher — CMS exotica
+#     org: MIT, ETH Zurich & CERN
+#     start: 2023-01-01
+#     end: 2024-08-31
+#     # summary: |
+#     #   Search for dark photons in GeV-scale dimuon resonances (analysis and student mentoring). Light-curve and SED analysis of OJ287; signal normalization for a heavy-neutrino search using the CMS B-parking dataset.
+#   - role: Contributor — A2rchi (LLM + RAG)
+#     org: MIT
+#     start: 2023-01-01
+#     end: 2024-12-31
+#     summary: |
+#       Project on retrieval-augmented generation to enhance large language models.
 
 # skills:
 #   - name: Physics & computing

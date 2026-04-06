@@ -20,7 +20,7 @@ sections:
       #   text: Download CV
       #   url: /CV-5.pdf
       headings:
-        about: 'Bio'
+        about: 'Some words about me'
         education: ''
         interests: ''
     design:
@@ -37,44 +37,44 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: Research
-      subtitle: ''
-      text: |-
-        I am a physics Ph.D. student at Caltech in Prof. Maria Spiropulu’s group, working on the CMS experiment at CERN. My work spans searches for new physics— including boosted HH → bbττ and a GeV-scale dark-photon dimuon resonance search—and hardware for the Phase-2 upgrade, such as the Barrel Timing Layer. I am also exploring how modern ML methods can push collider analyses forward.
+  # - block: markdown
+  #   content:
+  #     title: Research
+  #     subtitle: ''
+  #     text: |-
+  #       I am a physics Ph.D. student at Caltech in Prof. Maria Spiropulu’s group, working on the CMS experiment at CERN. My work spans searches for new physics— including boosted HH → bbττ and a GeV-scale dark-photon dimuon resonance search—and hardware for the Phase-2 upgrade, such as the Barrel Timing Layer. I am also exploring how modern ML methods can push collider analyses forward.
 
-        If you are interested in CMS physics, detectors, or ML applications in HEP, feel free to get in touch.
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
+  #       If you are interested in CMS physics, detectors, or ML applications in HEP, feel free to get in touch.
+    # design:
+    #   columns: '1'
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publications
+  #       featured_only: true
+  #   design:
+  #     view: article-grid
+  #     columns: 2
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: card
 ---
